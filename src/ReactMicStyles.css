@@ -1,0 +1,19 @@
+/* ReactMicStyles.css */
+.sound-wave {
+    width: 80%;
+    max-width: 600px;
+    height: 150px;
+    margin: 20px auto;
+    border: 2px solid #007BFF;
+    border-radius: 10px;
+    background-color: #f4f4f9; /* خلفية المحيط */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .react-mic {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 8px; /* زوايا دائرية للموجة الصوتية */
+  }
+  

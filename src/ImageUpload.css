@@ -1,0 +1,39 @@
+/* ImageUpload.css
+.mar {
+    margin: 20px auto;
+    max-width: 40%;
+    text-align: center;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .align {
+    margin-bottom: 15px;
+    font-size: 18px;
+    color: #333;
+    font-family: "Arial", sans-serif;
+  }
+  
+  input[type="file"] {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    cursor: pointer;
+  }
+  
+  .padding {
+    margin-top: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+   */
