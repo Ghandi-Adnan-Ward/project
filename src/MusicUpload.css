@@ -9,7 +9,7 @@ body {
   }
   
   form.mar {
-    max-width: 100%;
+    max-width: 50%;
     margin: 15px auto;
     padding: 20px;
     background-color: #fff;
@@ -43,8 +43,7 @@ body {
     margin-top: 20px;
   }
   img{
-    width: 100%;
-    max-width: 100%;
+    max-width: 80%;
     margin-top: 10px;
     border-radius: 5px;
   }

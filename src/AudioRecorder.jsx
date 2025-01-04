@@ -18,11 +18,9 @@ const AudioRecorder = () => {
   };
 
   const onData = (recordedBlob) => {
-    console.log('chunk of real-time data is: ', recordedBlob);
   };
 
   const onStop = (recordedBlob) => {
-    console.log('recordedBlob is: ', recordedBlob);
     setAudioData(recordedBlob);
   };
 

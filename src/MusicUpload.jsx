@@ -27,8 +27,7 @@ const MusicUpload = () => {
       />
       {audioURL && (
         <div className="padding">
-        <audio  src={audioURL} controls autoPlay>
-          </audio>
+        <audio  src={audioURL} controls autoPlay />
         </div>
       )}
     </form>
